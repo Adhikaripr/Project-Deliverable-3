@@ -17,9 +17,9 @@ PCA-based visualizations demonstrated that K-Means generated spherical cluster f
 
 ## Implementation Challenges and Strategic Decisions
 
-#Feature Standardization: Applying z-score normalization proved crucial to ensure equitable contribution from each attribute during the clustering process.
-#Medoid Initialization: Selecting initial medoids for K-Medoids presented difficulties. We employed manual selection, though more sophisticated initialization strategies could enhance clustering outcomes.
-#Performance Assessment: Evaluating cluster quality necessitated both numerical metrics and visual analysis.
+Feature Standardization: Applying z-score normalization proved crucial to ensure equitable contribution from each attribute during the clustering process.
+Medoid Initialization: Selecting initial medoids for K-Medoids presented difficulties. We employed manual selection, though more sophisticated initialization strategies could enhance clustering outcomes.
+Performance Assessment: Evaluating cluster quality necessitated both numerical metrics and visual analysis.
 
-#Quantitative measures: Silhouette Score and ARI enabled objective algorithm comparison.
-#Qualitative assessment: PCA visualizations facilitated examination of cluster distinctiveness and structural characteristics.
+Quantitative measures: Silhouette Score and ARI enabled objective algorithm comparison.
+Qualitative assessment: PCA visualizations facilitated examination of cluster distinctiveness and structural characteristics.
