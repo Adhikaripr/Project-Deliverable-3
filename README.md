@@ -7,8 +7,8 @@ Principal Findings
 
 ## K-Means demonstrated superior cluster cohesion and separation relative to K-Medoids.
 
-#Silhouette Score: K-Means (0.28) exceeded K-Medoids (0.27)
-#Adjusted Rand Index: K-Means (0.90) surpassed K-Medoids (0.74)
+# Silhouette Score: K-Means (0.28) exceeded K-Medoids (0.27)
+# Adjusted Rand Index: K-Means (0.90) surpassed K-Medoids (0.74)
 These results indicate that K-Means clustering exhibited stronger correspondence with the true wine classifications.
 
 
